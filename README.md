@@ -1,4 +1,4 @@
-# VGA-Popup-Bypass
+# Valorant-Popup-Bypass
 An example on how you can popup the error "VAN:RESTRICTION" on Valorant. Education Purposes only.
 
 # What's Included?
